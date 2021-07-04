@@ -1,0 +1,19 @@
+.navbar-color{
+    background-color:white;
+    height: 125px;
+}
+
+.btn-light:hover{
+    background-color: white;
+    color: #000; ;
+}
+
+.navbar-brand h1{
+    color: #cbb09c;
+    font-size: 50px;
+}
+
+.btn-light{
+    background-color: #cbb09c;
+    color: white;
+}

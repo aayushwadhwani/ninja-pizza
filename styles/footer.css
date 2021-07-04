@@ -1,0 +1,11 @@
+.footer{
+    text-align: center;
+    background-color: white;
+
+}
+
+.footer p{
+    font-size: larger;
+    font-weight: bolder;
+    color: #cbb09c;
+}
